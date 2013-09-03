@@ -16,6 +16,10 @@ nvm use v0.10.12
 # http://jshint.com/
 npm install -g jshint
 
+# Install Express, a node.js web application framework for building web applications.
+# http://expressjs.com
+npm install express
+
 # Install rlwrap to provide libreadline features with node
 # See: http://nodejs.org/api/repl.html#repl_repl
 sudo apt-get install -y rlwrap
